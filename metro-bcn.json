@@ -321,18 +321,6 @@
       "members": ["Aeroport T2", "Arc de Triomf", "Barceloneta", "Catalunya", "Clot", "Cornellà Centre", "El Prat Estació", "Fabra i Puig", "La Sagrera", "Passeig de Gràcia", "Rambla Just Oliveras", "Sant Andreu", "Sants Estació", "Torre Baró | Vallbona"]
     },
     {
-      "name": "Té un sol accès",
-      "members": ["Sant Gervasi", "Bonanova", "Avinguda Tibidabo", "El Putxet", "Plaça Molina", "Molí Nou | Ciutat Cooperativa", "Sant Boi", "Cornellà Riera", "Almeda", "Sant Josep", "Gornal", "Magòria | La Campana", "Hospital de Bellvitge", "Mercat Nou", "Baró de Viver", "La Pau", "Fontana", "Valldaura", "Poblenou", "Llacuna", "Barceloneta", "Cornellà Centre", "Can Boixeres", "Aeroport T1", "Aeroport T2", "Mas Blau", "El Prat Estació", "Mercabarna", "Can Tries | Gornal", "Onze de Setembre", "Bon Pastor", "Santa Rosa", "Església Major", "Singuerlín", "Can Zam", "Provençana", "Casa de l'Aigua", "Ciutat Meridiana"]
-    },
-    {
-      "name": "Té exactament dos accessos",
-      "members": ["Les Tres Torres", "Gràcia", "Muntaner", "Pàdua", "Reina Elisenda", "Avinguda Carrilet", "Can Serra", "Florida", "Torrassa", "Santa Eulàlia", "Marina", "Navas", "Sant Andreu", "Trinitat Vella", "Fondo", "Tetuan", "Monumental", "Encants", "Bac de Roda", "Sant Martí", "Verneda", "Artigues | Sant Adrià", "Sant Roc", "Badalona Pompeu Fabra", "Les Corts", "Plaça del Centre", "Lesseps", "Penitents", "Montbau", "Canyelles", "Besòs", "Besòs Mar", "El Maresme | Fòrum", "Selva de Mar", "Bogatell", "Ciutadella | Vila Olímpica", "Jaume I", "Girona", "Joanic", "Guinardó | Hospital de Sant Pau", "Via Júlia", "Gavarra", "Sant Ildefons", "Can Vidalet", "Entença", "Sant Pau | Dos de Maig", "Camp de l'Arpa", "Congrés", "Ernest Lluch", "Parc Nou", "Cèntric", "Les Moreres", "Parc Logístic", "Fira", "Europa | Fira", "Can Peixauet", "Foc", "Foneria", "Ciutat de la Justícia / Ildefons Cerdà", "Torre Baró | Vallbona", "Can Cuiàs"]
-    },
-    {
-      "name": "Té tres o més accessos",
-      "members": ["Sarrià", "Rambla Just Oliveras", "Urgell", "Arc de Triomf", "Glòries", "Clot", "Santa Coloma", "Sant Antoni", "Gorg", "Pep Ventura", "Palau Reial", "Maria Cristina", "Poble Sec", "Drassanes", "Vallcarca", "Vall d'Hebron", "Mundet", "Roquetes", "Trinitat Nova", "Alfons X", "Llucmajor", "Pubilla Cases", "Collblanc", "Badal", "Hospital Clínic", "Horta", "El Carmel", "El Coll | La Teixonera", "Llefià", "ZAL | Riu Vell", "Ecoparc", "Port Comercial | La Factoria", "Zona Franca", "Bellvitge", "Hostafrancs", "Rocafort", "Universitat", "Torras i Bages", "Paral·lel", "Sagrada Família", "Tarragona", "Liceu", "Verdaguer", "Vilapicina", "La Salut", "Urquinaona", "La Sagrera", "Fabra i Puig", "Zona Universitària", "Maragall", "Virrei Amat", "Espanya", "Passeig de Gràcia", "Sants Estació", "Plaça de Sants", "Diagonal / Provença", "Catalunya"]
-    },
-    {
       "name": "Nom en una sola paraula",
       "members": ["Almeda", "Badal", "Barceloneta", "Bellvitge", "Besòs", "Bogatell", "Canyelles", "Catalunya", "Cèntric", "Clot", "Collblanc", "Congrés", "Diagonal / Provença", "Drassanes", "Ecoparc", "Encants", "Entença", "Espanya", "Fira", "Florida", "Foc", "Fondo", "Foneria", "Fontana", "Gavarra", "Girona", "Glòries", "Gorg", "Gornal", "Gràcia", "Horta", "Hostafrancs", "Joanic", "Lesseps", "Liceu", "Llacuna", "Llefià", "Llucmajor", "Maragall", "Marina", "Mercabarna", "Montbau", "Monumental", "Mundet", "Muntaner", "Navas", "Pàdua", "Paral·lel", "Penitents", "Poblenou", "Provençana", "Rocafort", "Roquetes", "Sarrià", "Singuerlín", "Tarragona", "Tetuan", "Torrassa", "Universitat", "Urgell", "Urquinaona", "Vallcarca", "Valldaura", "Verdaguer", "Verneda", "Vilapicina"]
     },
