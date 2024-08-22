@@ -249,15 +249,15 @@ export default {
     {
       "title": "No tenen cap línia en comú",
       "test": candidates => {
-        const sets = candidates.map(candidate => new Set(linesDict.keys().filter(key => linesDict.get(key).includes(candidate))));
-        const nrOfLines = sets.reduce((acc, cur) => acc + cur.size);
+        const sets = candidates.map(candidate => new Set([...linesDict.keys()].filter(key => linesDict.get(key).includes(candidate))));
+        const nrOfLines = sets.reduce((acc, cur) => acc + cur.size, 0);
         return nrOfLines === sets.reduce((acc, cur) => acc.union(cur)).size;
       }
     },
     {
       "title": "Sumen sis o més línies diferents",
       "test": candidates => {
-        const sets = candidates.map(candidate => new Set(linesDict.keys().filter(key => linesDict.get(key).includes(candidate))));
+        const sets = candidates.map(candidate => new Set([...linesDict.keys()].filter(key => linesDict.get(key).includes(candidate))));
         return sets.reduce((acc, cur) => acc.union(cur)).size >= 6;
       }
     },
@@ -289,7 +289,7 @@ export default {
           lowerCaseWithoutDiacritics(candidate)
           .replace(/[^aeiou]/g, '') // Remove consonants
         ));
-        const nrOfVowels = sets.reduce((acc, cur) => acc + cur.size);
+        const nrOfVowels = sets.reduce((acc, cur) => acc + cur.size, 0);
         return nrOfVowels === sets.reduce((acc, cur) => acc.union(cur)).size;
       })
     },
