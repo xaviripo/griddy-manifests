@@ -271,6 +271,14 @@ export default {
       }
     },
     {
+      "title": "Estan totes a zones diferents (districte, Hospitalet, Baix Llobregat, o costat Besòs)",
+      "test": candidates => {
+        const sets = candidates.map(candidate => new Set([...zones.keys()].filter(key => zones.get(key).includes(candidate))));
+        const nrOfZones = sets.reduce((acc, cur) => acc + cur.size, 0);
+        return nrOfZones === sets.reduce((acc, cur) => acc.union(cur)).size;
+      }
+    },
+    {
       "title": "Comencen amb la mateixa lletra o xifra",
       "test": nameStar(candidates => candidates
         .map(candidate => lowerCaseWithoutDiacritics(candidate[0]))
