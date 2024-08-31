@@ -503,7 +503,7 @@ export default {
     },
     {
       "name": "A més de 700 metres de qualsevol altra estació",
-      "members": ["Magòria-La Campana", "Almeda", "Sant Boi", "Molí Nou | Ciutat Cooperativa", "Hospital de Bellvitge", "Fabra i Puig", "Sant Andreu", "Verneda", "Artigues | Sant Adrià", "Badalona Pompeu Fabra", "Diagonal / Provença", "Penitents", "Valldaura", "Canyelles", "Ciutadella | Vila Olímpica", "Joanic", "Alfons X", "Llucmajor", "Gavarra", "Aeroport T1", "Aeroport T2", "Mas Blau", "Parc Nou", "Cèntric", "El Prat Estació", "Les Moreres", "Mercabarna", "Parc Logístic", "Fira", "Onze de Setembre", "Bon Pastor", "ZAL | Riu Vell", "Ecoparc", "Port Comercial | La Factoria", "Zona Franca", "Parc de Montjuïc"]
+      "members": ["Magòria-La Campana", "Almeda", "Sant Boi", "Molí Nou | Ciutat Cooperativa", "Hospital de Bellvitge", "Fabra i Puig", "Sant Andreu", "Verneda", "Artigues | Sant Adrià", "Badalona Pompeu Fabra", "Diagonal / Provença", "Penitents", "Valldaura", "Canyelles", "Ciutadella | Vila Olímpica", "Joanic", "Alfons X", "Llucmajor", "Gavarra", "Aeroport T1", "Aeroport T2", "Mas Blau", "Parc Nou", "Cèntric", "El Prat Estació", "Les Moreres", "Mercabarna", "Parc Logístic", "Fira", "Onze de Setembre", "Bon Pastor", "ZAL | Riu Vell", "Ecoparc", "Port Comercial | La Factoria", "Zona Franca"]
     },
     {
       "name": "Té tres o més estacions a menys de 700 metres",
