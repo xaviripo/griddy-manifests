@@ -523,7 +523,7 @@ export default {
     },
     {
       "name": "Conté un article (incl. apostrofat o contret)",
-      "members": ["Camp de l'Arpa", "Can Boixeres", "Can Cuiàs", "Can Peixauet", "Can Serra", "Can Tries | Gornal", "Can Vidalet", "Can Zam", "Casa de l'Aigua", "Ciutat de la Justícia / Ildefons Cerdà", "El Carmel", "El Coll | La Teixonera", "El Maresme | Fòrum", "El Prat Estació", "El Putxet", "La Bonanova", "La Pau", "La Sagrera", "La Salut", "Les Corts", "Les Moreres", "Les Tres Torres", "Magòria-La Campana", "Plaça del Centre", "Poble Sec", "Port Comercial | La Factoria"]
+      "members": ["Camp de l'Arpa", "Can Boixeres", "Can Cuiàs", "Can Peixauet", "Can Serra", "Can Tries | Gornal", "Can Vidalet", "Can Zam", "Casa de l'Aigua", "Ciutat de la Justícia / Ildefons Cerdà", "El Carmel", "El Coll | La Teixonera", "El Maresme | Fòrum", "El Prat Estació", "El Putxet", "La Bonanova", "La Pau", "La Sagrera", "La Salut", "Les Corts", "Les Moreres", "Les Tres Torres", "Magòria-La Campana", "Plaça del Centre", "Port Comercial | La Factoria"]
     },
     {
       "name": "Conté la preposició \"de\" (incl. apostrofada o contreta)",
