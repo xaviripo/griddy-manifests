@@ -302,7 +302,22 @@ export default {
       })
     },
     {
-      "title": "Tenen tres o més lletres o xifres en comú",
+      "title": "Tenen les mateixes vocals (sense comptar repeticions)",
+      "test": nameStar(candidates => {
+        const vowels = candidates.map(candidate => {
+          const s = new Set(
+            lowerCaseWithoutDiacritics(candidate)
+            .replace(/[^aeiou]/g, '') // Remove consonants
+          );
+          const a = Array.from(s);
+          a.sort();
+          return a.join('');
+        });
+        return new Set(vowels).size === 1;
+      })
+    },
+    {
+      "title": "Tenen tres o més lletres o xifres diferents en comú",
       "test": nameStar(candidates => {
         const sets = candidates.map(candidate => new Set(
           lowerCaseWithoutDiacritics(candidate)
