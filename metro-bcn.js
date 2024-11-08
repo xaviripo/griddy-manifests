@@ -386,7 +386,7 @@ export default {
     },
     {
       "name": "Connecta amb tramvia",
-      "members": ["Cornellà Centre", "Ernest Lluch", "Zona Universitària", "Palau Reial", "Maria Cristina", "Ciutadella | Vila Olímpica", "Marina", "Glòries", "Selva de Mar", "El Maresme | Fòrum", "Besòs", "Sant Roc", "Gorg"]
+      "members": ["Cornellà Centre", "Ernest Lluch", "Zona Universitària", "Palau Reial", "Maria Cristina", "Ciutadella | Vila Olímpica", "Marina", "Glòries", "Selva de Mar", "El Maresme | Fòrum", "Besòs", "Sant Roc", "Gorg", "Verdaguer", "Monumental"]
     },
     {
       "name": "Conté un nom de sant o santa",
