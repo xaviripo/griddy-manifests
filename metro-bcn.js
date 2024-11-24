@@ -542,7 +542,7 @@ export default {
     },
     {
       "name": "Conté la preposició \"de\" (incl. apostrofada o contreta)",
-      "members": ["Arc de Triomf", "Bac de Roda", "Baró de Viver", "Camp de l'Arpa", "Casa de l'Aigua", "Catalunya", "Ciutat de la Justícia / Ildefons Cerdà", "Guinardó | Hospital de Sant Pau", "Hospital de Bellvitge", "Onze de Setembre", "Passeig de Gràcia", "Plaça de Sants", "Plaça del Centre", "Sant Pau | Dos de Maig", "Selva de Mar", "Vall d'Hebron"]
+      "members": ["Arc de Triomf", "Bac de Roda", "Baró de Viver", "Camp de l'Arpa", "Casa de l'Aigua", "Ciutat de la Justícia / Ildefons Cerdà", "Guinardó | Hospital de Sant Pau", "Hospital de Bellvitge", "Onze de Setembre", "Passeig de Gràcia", "Plaça de Sants", "Plaça del Centre", "Sant Pau | Dos de Maig", "Selva de Mar", "Vall d'Hebron"]
     },
     {
       "name": "Conté un topònim que no és el del barri o localitat on es troba",
